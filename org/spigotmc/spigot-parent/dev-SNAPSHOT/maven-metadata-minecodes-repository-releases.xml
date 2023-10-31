@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.spigotmc</groupId>
+  <artifactId>spigot-parent</artifactId>
+  <version>dev-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <localCopy>true</localCopy>
+    </snapshot>
+    <lastUpdated>20221211212926</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>dev-SNAPSHOT</value>
+        <updated>20221211212926</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

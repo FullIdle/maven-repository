@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jul 04 19:21:29 CST 2023
+minecraft-server-1.12.2-SNAPSHOT.pom>=
+minecraft-server-1.12.2-SNAPSHOT.jar>=
