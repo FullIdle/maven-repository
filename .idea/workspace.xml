@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5195aaf2-b914-48ae-946c-d801fd3f03ec" name="更改" comment="初定" />
+    <list default="true" id="5195aaf2-b914-48ae-946c-d801fd3f03ec" name="更改" comment="去除forge待重添">
+      <change afterPath="$PROJECT_DIR$/com/fullidle/fullidledev/forge/1.12.2-14.23.5.2860/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/fullidle/fullidledev/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/fullidle/fullidledev/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/fullidle/fullidledev/forge/1.16.5-36.2.39/_remote.repositories" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/fullidle/fullidledev/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/fullidle/fullidledev/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39.pom" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/fullidle/fullidledev/forge/maven-metadata-local.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="snapshot" />
@@ -35,19 +44,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/MyProject/maven-repository/com/fullidle/fullidledev",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\MyProject\maven-repository\com\fullidle\fullidledev" />
+      <recent name="D:\MyProject\maven-repository" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="maven-repository" />
@@ -73,6 +90,7 @@
       <updated>1688444365342</updated>
       <workItem from="1698762652694" duration="1307000" />
       <workItem from="1698763972204" duration="202000" />
+      <workItem from="1698765049694" duration="964000" />
     </task>
     <task id="LOCAL-00001" summary="初定">
       <option name="closed" value="true" />
@@ -90,7 +108,23 @@
       <option name="project" value="LOCAL" />
       <updated>1698762855904</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="去除forge待重添">
+      <option name="closed" value="true" />
+      <created>1698765110125</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698765110125</updated>
+    </task>
+    <task id="LOCAL-00004" summary="去除forge待重添">
+      <option name="closed" value="true" />
+      <created>1698765336724</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698765336724</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +132,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初定" />
-    <option name="LAST_COMMIT_MESSAGE" value="初定" />
+    <MESSAGE value="去除forge待重添" />
+    <option name="LAST_COMMIT_MESSAGE" value="去除forge待重添" />
   </component>
 </project>

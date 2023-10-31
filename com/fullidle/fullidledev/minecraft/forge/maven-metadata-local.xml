@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.fullidle.fullidledev</groupId>
+  <groupId>com.fullidle.fullidledev.minecraft</groupId>
   <artifactId>forge</artifactId>
   <versioning>
     <release>1.16.5-36.2.39</release>
