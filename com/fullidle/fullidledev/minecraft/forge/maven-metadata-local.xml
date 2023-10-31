@@ -3,7 +3,6 @@
   <groupId>com.fullidle.fullidledev.minecraft</groupId>
   <artifactId>forge</artifactId>
   <versioning>
-    <release>1.16.5-36.2.39</release>
     <versions>
       <version>1.12.2-14.23.5.2860</version>
       <version>1.16.5-36.2.39</version>
