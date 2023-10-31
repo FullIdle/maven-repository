@@ -4,10 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5195aaf2-b914-48ae-946c-d801fd3f03ec" name="更改" comment="移动Forge">
-      <change afterPath="$PROJECT_DIR$/com/fullidle/fullidledev/minecraft/forge/1.12.2-14.23.5.2860/maven-metadata-local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/fullidle/fullidledev/minecraft/forge/1.16.5-36.2.39/maven-metadata-local.xml" afterDir="false" />
+    <list default="true" id="5195aaf2-b914-48ae-946c-d801fd3f03ec" name="更改" comment="完善">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/fullidle/fullidledev/minecraft/forge/1.12.2-14.23.5.2860/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/fullidle/fullidledev/minecraft/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860.jar" beforeDir="false" afterPath="$PROJECT_DIR$/com/fullidle/fullidledev/minecraft/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/fullidle/fullidledev/minecraft/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860.pom" beforeDir="false" afterPath="$PROJECT_DIR$/com/fullidle/fullidledev/minecraft/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860.pom" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/fullidle/fullidledev/minecraft/forge/1.12.2-14.23.5.2860/maven-metadata-local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/fullidle/fullidledev/minecraft/forge/1.16.5-36.2.39/_remote.repositories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/fullidle/fullidledev/minecraft/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/fullidle/fullidledev/minecraft/forge/1.16.5-36.2.39/forge-1.16.5-36.2.39.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/fullidle/fullidledev/minecraft/forge/1.16.5-36.2.39/maven-metadata-local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/fullidle/fullidledev/minecraft/forge/maven-metadata-local.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +98,7 @@
       <updated>1688444365342</updated>
       <workItem from="1698762652694" duration="1307000" />
       <workItem from="1698763972204" duration="202000" />
-      <workItem from="1698765049694" duration="2768000" />
+      <workItem from="1698765049694" duration="4488000" />
     </task>
     <task id="LOCAL-00001" summary="初定">
       <option name="closed" value="true" />
@@ -141,7 +148,31 @@
       <option name="project" value="LOCAL" />
       <updated>1698767868916</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="完善">
+      <option name="closed" value="true" />
+      <created>1698769489760</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698769489760</updated>
+    </task>
+    <task id="LOCAL-00008" summary="完善">
+      <option name="closed" value="true" />
+      <created>1698769587654</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1698769587654</updated>
+    </task>
+    <task id="LOCAL-00009" summary="完善">
+      <option name="closed" value="true" />
+      <created>1698769701258</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1698769701258</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +183,7 @@
     <MESSAGE value="去除forge待重添" />
     <MESSAGE value="添加Forge 12 16" />
     <MESSAGE value="移动Forge" />
-    <option name="LAST_COMMIT_MESSAGE" value="移动Forge" />
+    <MESSAGE value="完善" />
+    <option name="LAST_COMMIT_MESSAGE" value="完善" />
   </component>
 </project>
