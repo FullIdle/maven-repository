@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Aug 27 16:53:18 CST 2023
+https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.error=
+https\://hub.spigotmc.org/nexus/content/repositories/snapshots/.lastUpdated=1693126397555
+https\://jitpack.io/.error=
+https\://jitpack.io/.lastUpdated=1693126397037
+https\://papermc.io/repo/repository/maven-public/.lastUpdated=1693126398783
