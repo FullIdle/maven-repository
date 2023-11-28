@@ -3,10 +3,11 @@
   <groupId>com.pixelmonmod.pixelmon</groupId>
   <artifactId>Pixelmon</artifactId>
   <versioning>
-    <release>1.12.2-8.4.3</release>
+    <release>1.16.5-9.1.9</release>
     <versions>
       <version>1.12.2-8.4.3</version>
+      <version>1.16.5-9.1.9</version>
     </versions>
-    <lastUpdated>20231116152624</lastUpdated>
+    <lastUpdated>20231128152157</lastUpdated>
   </versioning>
 </metadata>

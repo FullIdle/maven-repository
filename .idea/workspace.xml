@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5195aaf2-b914-48ae-946c-d801fd3f03ec" name="更改" comment="delete forge12 16">
+    <list default="true" id="5195aaf2-b914-48ae-946c-d801fd3f03ec" name="更改" comment="update FICore-1.2.1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,6 +105,8 @@
       <workItem from="1700577406936" duration="294000" />
       <workItem from="1701013030728" duration="109000" />
       <workItem from="1701088780389" duration="51000" />
+      <workItem from="1701097322781" duration="217000" />
+      <workItem from="1701184384842" duration="546000" />
     </task>
     <task id="LOCAL-00001" summary="初定">
       <option name="closed" value="true" />
@@ -258,7 +260,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701013125814</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="update FICore-1.2.1">
+      <option name="closed" value="true" />
+      <created>1701097488139</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1701097488139</updated>
+    </task>
+    <task id="LOCAL-00021" summary="update FICore-1.2.1">
+      <option name="closed" value="true" />
+      <created>1701097521385</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1701097521385</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,6 +294,7 @@
     <MESSAGE value="add md-5" />
     <MESSAGE value="update FICore-1.2" />
     <MESSAGE value="delete forge12 16" />
-    <option name="LAST_COMMIT_MESSAGE" value="delete forge12 16" />
+    <MESSAGE value="update FICore-1.2.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="update FICore-1.2.1" />
   </component>
 </project>
