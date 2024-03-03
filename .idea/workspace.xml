@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5195aaf2-b914-48ae-946c-d801fd3f03ec" name="更改" comment="add 1.16.5 forgedev">
+    <list default="true" id="5195aaf2-b914-48ae-946c-d801fd3f03ec" name="更改" comment="update 1.12.2-8.4.3-去模型客户端版">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/pixelmonmod/pixelmon/Pixelmon/1.12.2-8.4.3/Pixelmon-1.12.2-8.4.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/com/pixelmonmod/pixelmon/Pixelmon/1.12.2-8.4.3/Pixelmon-1.12.2-8.4.3.jar" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,7 +129,7 @@
       <workItem from="1703332698252" duration="776000" />
       <workItem from="1705246098842" duration="35000" />
       <workItem from="1705657061548" duration="888000" />
-      <workItem from="1709454562485" duration="306000" />
+      <workItem from="1709454562485" duration="957000" />
     </task>
     <task id="LOCAL-00001" summary="初定">
       <option name="closed" value="true" />
@@ -338,7 +339,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705657357529</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="update 1.12.2-8.4.3">
+      <option name="closed" value="true" />
+      <created>1709455062047</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1709455062047</updated>
+    </task>
+    <task id="LOCAL-00028" summary="update 1.12.2-8.4.3">
+      <option name="closed" value="true" />
+      <created>1709455115739</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1709455115739</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,6 +378,8 @@
     <MESSAGE value="add FICore-1.2.2" />
     <MESSAGE value="readd ForgeDev-1.12.2.jar" />
     <MESSAGE value="add 1.16.5 forgedev" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 1.16.5 forgedev" />
+    <MESSAGE value="update 1.12.2-8.4.3" />
+    <MESSAGE value="update 1.12.2-8.4.3-去模型客户端版" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 1.12.2-8.4.3-去模型客户端版" />
   </component>
 </project>
