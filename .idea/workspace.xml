@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5195aaf2-b914-48ae-946c-d801fd3f03ec" name="更改" comment="update 1.12.2-8.4.3">
-      <change afterPath="$PROJECT_DIR$/com/pixelmonmod/pixelmon/Pixelmon/1.12.2-8.4.3/Pixelmon-1.12.2-8.4.3.jar.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pixelmonmod/pixelmon/Pixelmon/1.12.2-8.4.3/Pixelmon-1.12.2-8.4.3.jar.sha1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pixelmonmod/pixelmon/Pixelmon/1.12.2-8.4.3/Pixelmon-1.12.2-8.4.3.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pixelmonmod/pixelmon/Pixelmon/1.12.2-8.4.3/Pixelmon-1.12.2-8.4.3.pom.md5" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/com/pixelmonmod/pixelmon/Pixelmon/1.12.2-8.4.3/Pixelmon-1.12.2-8.4.3.pom.sha1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/pixelmonmod/pixelmon/Pixelmon/1.12.2-8.4.3/Pixelmon-1.12.2-8.4.3.jar" beforeDir="false" afterPath="$PROJECT_DIR$/com/pixelmonmod/pixelmon/Pixelmon/1.12.2-8.4.3/Pixelmon-1.12.2-8.4.3.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/pixelmonmod/pixelmon/Pixelmon/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com/pixelmonmod/pixelmon/Pixelmon/maven-metadata.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/pixelmonmod/pixelmon/Pixelmon/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/pixelmonmod/pixelmon/Pixelmon/maven-metadata.xml.md5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/com/pixelmonmod/pixelmon/Pixelmon/maven-metadata.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/pixelmonmod/pixelmon/Pixelmon/maven-metadata.xml.sha1" afterDir="false" />
-    </list>
+    <list default="true" id="5195aaf2-b914-48ae-946c-d801fd3f03ec" name="更改" comment="update 1.12.2-8.4.3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,7 +119,7 @@
       <workItem from="1705246098842" duration="35000" />
       <workItem from="1705657061548" duration="888000" />
       <workItem from="1709454562485" duration="957000" />
-      <workItem from="1709537641728" duration="130000" />
+      <workItem from="1709537641728" duration="194000" />
     </task>
     <task id="LOCAL-00001" summary="初定">
       <option name="closed" value="true" />
@@ -356,7 +345,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709455115739</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="update 1.12.2-8.4.3">
+      <option name="closed" value="true" />
+      <created>1709537801362</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1709537801362</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
