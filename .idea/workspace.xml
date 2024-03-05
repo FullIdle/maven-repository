@@ -85,6 +85,21 @@
       <recent name="D:\MyProject\maven-repository\com\fullidle\fullidledev\minecraft" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="maven-repository" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="maven-repository" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -121,6 +136,7 @@
       <workItem from="1709454562485" duration="957000" />
       <workItem from="1709537641728" duration="194000" />
       <workItem from="1709550654506" duration="294000" />
+      <workItem from="1709550953453" duration="142000" />
     </task>
     <task id="LOCAL-00001" summary="初定">
       <option name="closed" value="true" />
@@ -402,7 +418,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709550897001</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="add FIScript">
+      <option name="closed" value="true" />
+      <created>1709550982616</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1709550982616</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,8 +451,8 @@
     <MESSAGE value="add 1.16.5 forgedev" />
     <MESSAGE value="update 1.12.2-8.4.3-去模型客户端版" />
     <MESSAGE value="update 1.12.2-8.4.3" />
-    <MESSAGE value="add FIScript" />
     <MESSAGE value="add FIScript2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add FIScript2" />
+    <MESSAGE value="add FIScript" />
+    <option name="LAST_COMMIT_MESSAGE" value="add FIScript" />
   </component>
 </project>
