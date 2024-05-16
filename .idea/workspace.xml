@@ -4,27 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5195aaf2-b914-48ae-946c-d801fd3f03ec" name="更改" comment="add FIScript">
-      <change afterPath="$PROJECT_DIR$/org/spigotmc/minecraft-server/1.20.2-R0.1-SNAPSHOT/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/spigotmc/minecraft-server/1.20.2-R0.1-SNAPSHOT/maven-metadata-local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/spigotmc/minecraft-server/1.20.2-R0.1-SNAPSHOT/minecraft-server-1.20.2-R0.1-SNAPSHOT-maps-mojang.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/spigotmc/minecraft-server/1.20.2-R0.1-SNAPSHOT/minecraft-server-1.20.2-R0.1-SNAPSHOT-maps-spigot-members.csrg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/spigotmc/minecraft-server/1.20.2-R0.1-SNAPSHOT/minecraft-server-1.20.2-R0.1-SNAPSHOT-maps-spigot.csrg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/spigotmc/minecraft-server/1.20.2-R0.1-SNAPSHOT/minecraft-server-1.20.2-R0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/spigotmc/minecraft-server/1.20.2-R0.1-SNAPSHOT/minecraft-server-1.20.2-R0.1-SNAPSHOT.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/spigotmc/spigot-api/1.20.2-R0.1-SNAPSHOT/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/spigotmc/spigot-api/1.20.2-R0.1-SNAPSHOT/maven-metadata-local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/spigotmc/spigot-api/1.20.2-R0.1-SNAPSHOT/spigot-api-1.20.2-R0.1-SNAPSHOT-shaded.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/spigotmc/spigot-api/1.20.2-R0.1-SNAPSHOT/spigot-api-1.20.2-R0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/spigotmc/spigot-api/1.20.2-R0.1-SNAPSHOT/spigot-api-1.20.2-R0.1-SNAPSHOT.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/spigotmc/spigot/1.20.2-R0.1-SNAPSHOT/_remote.repositories" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/spigotmc/spigot/1.20.2-R0.1-SNAPSHOT/maven-metadata-local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/spigotmc/spigot/1.20.2-R0.1-SNAPSHOT/spigot-1.20.2-R0.1-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/org/spigotmc/spigot/1.20.2-R0.1-SNAPSHOT/spigot-1.20.2-R0.1-SNAPSHOT.pom" afterDir="false" />
+    <list default="true" id="5195aaf2-b914-48ae-946c-d801fd3f03ec" name="更改" comment="add spigot 1.20.2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/spigotmc/minecraft-server/maven-metadata-local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/org/spigotmc/minecraft-server/maven-metadata-local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/spigotmc/spigot-api/maven-metadata-local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/org/spigotmc/spigot-api/maven-metadata-local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/org/spigotmc/spigot/maven-metadata-local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/org/spigotmc/spigot/maven-metadata-local.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -456,7 +437,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709607572586</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="add spigot 1.20.2">
+      <option name="closed" value="true" />
+      <created>1715856871205</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1715856871205</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -483,6 +472,7 @@
     <MESSAGE value="update 1.12.2-8.4.3" />
     <MESSAGE value="add FIScript2" />
     <MESSAGE value="add FIScript" />
-    <option name="LAST_COMMIT_MESSAGE" value="add FIScript" />
+    <MESSAGE value="add spigot 1.20.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add spigot 1.20.2" />
   </component>
 </project>
